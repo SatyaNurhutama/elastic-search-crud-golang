@@ -17,6 +17,12 @@ This project demonstrates how to implement a simple CRUD RESTful API for managin
 
 ## Environment Variables
 
-`ELASTICSEARCH_ADDRESS=your-elastic-search-address(e.g., "https://localhost:9200")
+```
+ELASTICSEARCH_ADDRESS=your-elastic-search-address(e.g., "https://localhost:9200")
+```
+```
 ELASTICSEARCH_USERNAME=your-username
-ELASTICSEARCH_PASSWORD=your-password`
+```
+```
+ELASTICSEARCH_PASSWORD=your-password
+```
